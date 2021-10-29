@@ -108,17 +108,16 @@ analytics:
 # Site Author
 author:
   name             : "Nima Naderi"
-  avatar           : "WhatsApp Image 2021-09-30 at 12.51.27 AM.jpeggit status
-"
+  avatar           : "/assets/images/mypic.jpeg"
   bio              : student of ce, interested in drawing,sports,music,series and in love with sea and nature.
   
   location         : "تهران"
   email            : nimanaderi1381@gmail.com
   twitter: 
   linkedin:
-  google_schol
+  google_scholar: 25io
   github: nimanr4
-  instagram:nimanr4
+  instagram: nimanr4
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
