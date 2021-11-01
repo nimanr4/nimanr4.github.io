@@ -1,23 +1,8 @@
 ---
 layout: posts
-title: Test Post
+title: talking with alireza bayatkhani
 ---
 
-## This is my team at Microsoft
-People in the picture are:
-- Arul
-- Fai
-- Scott
-- Me
-
-[my favorite website](http://www.google.com)
-
-kajsdlfk jsaldfkj saldkjflaskdjflaskjdlfkasjdlfkjasdl fjsad fkajsldkfjlaskdj flakjds fksad flaksj dlfkjads l
-kfajdskfajsdf sakd fjksad jfksdj fksdj f
-
-
-
-![alt text](../assets/images/grouppic.jpg "Team Picture")
-
----
-**Test**: This is atest
+## asking and answering
+we talked about a lesson and how to do that
+we solve some problems for this website
